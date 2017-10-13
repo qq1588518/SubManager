@@ -4,7 +4,7 @@ SubManager is an iOS Application, written in Objective-C, which can enable/disab
 
 ### Compiling
 
-(If you don't care about this, just jump to [Installing](#Installing-for-noobs) section.)
+(If you don't care about this, just jump to [Installing](#installing-for-noobs) section.)
 
 Note: You must use a compiler with a valid toolchain. 
  - for Windows, GNU/Linux, macOS users: follow setup on [iPhoneDevWiki](http://iphonedevwiki.net/index.php/Theos/Setup);
