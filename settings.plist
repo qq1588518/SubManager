@@ -3,9 +3,13 @@
 <plist version="1.0">
 <dict>
 	<key>AssemblerFlags</key>
-	<array/>
+	<array>
+		<string>-arch armv7 -arch armv7s -arch arm64</string>
+	</array>
 	<key>CompilerFlags</key>
-	<array/>
+	<array>
+		<string>-arch armv7 -arch armv7s -arch arm64</string>
+	</array>
 	<key>DisabledWarnings</key>
 	<array/>
 	<key>SDK</key>

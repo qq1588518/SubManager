@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>LastAccess</key>
-	<date>2017-10-12T20:59:21Z</date>
+	<date>2017-10-14T07:11:36Z</date>
 	<key>author</key>
 	<string>Sys001</string>
 	<key>bundleIdentifier</key>
@@ -34,11 +34,11 @@
 	<key>resources</key>
 	<array>
 		<dict>
-       			<key>folder</key>
-       			<false/>
-       			<key>name</key>
-       			<string>Icon.png</string>
-     		</dict>
+			<key>folder</key>
+			<false/>
+			<key>name</key>
+			<string>Icon.png</string>
+		</dict>
 		<dict>
 			<key>folder</key>
 			<false/>
